@@ -3,8 +3,8 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"natal",
-         "name":"Feliz Natal (1)",
+         "identifier":"natal2",
+         "name":"Feliz Natal (2)",
          "publisher":"Ant Space",
          "tray_image_file":"tray.png",
          "publisher_website":"",
@@ -65,6 +65,12 @@
             },
             {
                "image_file":"9.webp",
+               "emojis":[
+                  
+               ]
+            },
+            {
+               "image_file":"10.webp",
                "emojis":[
                   
                ]
